@@ -16,7 +16,7 @@ main:
     url: /year-archive/
 
   - title: "CV"
-    url: /files/Resume_Pedro.pdf
+    url: <a href=" /files/Resume_Pedro.pdf" target="_blank">CV</a>
 
   - title: "Guide"
     url: /markdown/
