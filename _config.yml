@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Pedro Ferreira"
+  avatar           : "my-photo.png"
+  bio              : "Research Assistant at LSIE (UnB) and NIMS (Dalhousie University). President of IEEE CIS Student Chapter at Universidade de Brasília. Electrical Engineer.   "
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
