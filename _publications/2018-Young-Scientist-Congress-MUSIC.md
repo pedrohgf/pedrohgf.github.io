@@ -3,7 +3,6 @@ title: "“Analysis of Fault Location Functions Based on High Frequency Componen
 collection: publications
 permalink: /publication/2018-Young-Scientist-Congress-MUSIC
 excerpt: 'This paper investigates the effects of the conditions of operation on the performance of high-frequency components-based fault detection algorithms for transmission lines'
- about the number 3. The number 4 is left for future work.'
 date: 2018-09-07
 venue: '15th Federal District Scientific Initiation Congress'
 paperurl: 'http://pedroferreira.ml/files/Localizacao_de_Faltas_Alta_Frequencia.pdf'
