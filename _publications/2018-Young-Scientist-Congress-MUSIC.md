@@ -1,5 +1,5 @@
 ---
-title: "“Analysis of Fault Location Functions Based on High Frequency Components on Transmission Lines." (in Portuguese)
+title: "Analysis of Fault Location Functions Based on High Frequency Components on Transmission Lines." (in Portuguese)
 collection: publications
 permalink: /publication/2018-Young-Scientist-Congress-MUSIC
 excerpt: 'This paper investigates the effects of the conditions of operation on the performance of high-frequency components-based fault detection algorithms for transmission lines'
