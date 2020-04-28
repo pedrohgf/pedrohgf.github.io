@@ -1,7 +1,7 @@
 ---
 title: "Center Pivot Classification with Deep Residual U-Net"
 collection: publications
-permalink: /publication/IGARSS-Center-Pivot-Deep-Residual-U-Net
+permalink: /publications/IGARSS-Center-Pivot-Deep-Residual-U-Net
 excerpt: 'THE PRESENTATION IS STILL PENDING'
 date: 2020-04-27
 venue: '2020 IEEE International Geoscience and Remote Sensing Symposium, Waikoloa, Hawaii'

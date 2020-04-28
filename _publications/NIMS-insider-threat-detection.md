@@ -1,7 +1,7 @@
 ---
 title: "Exploring Feature Normalization and Temporal Information for Machine Learning Based Insider Threat Detection"
 collection: publications
-permalink: /publication/NIMS-insider-threat-detection
+permalink: /publications/NIMS-insider-threat-detection
 excerpt: 'Insider threat is one of the most damaging cyber security attacks to companies and organizations. In this paper, we explore different techniques to leverage spatial and temporal characteristics of user behaviours for insider threat detection. In particular, feature normalization (scaling) techniques and a scheme for representing explicit temporal information are explored to improve the performance of the machine learning based insider threat detection. The results show that these data characteristics have different effects on different classifiers, where Standard Scaler with Random Forest classifier produces the best performance.'
 date: 2019-10-21
 venue: '15th International Conference on Network and Service Management (CNSM)'
