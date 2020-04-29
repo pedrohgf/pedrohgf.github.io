@@ -6,12 +6,8 @@ tags:
   - crônicas
   - reflexões
 ---
-<div align="center">
-CORREDORES
-======
-</div>
-<div align="center">
-![alt text](/images/posts/Corredores.jpg "Corredores")
+<div align="center"> <h1>CORREDORES</h1>
+<img scr="/images/posts/Corredores.jpg" alt="corredor"></img> 
 </div>
 
 Um dos grandes mistérios da minha infância era a razão da existência de corredores. A ideia de que todos os cômodos deveriam dar em uma mesma área, cujas funções, além de conectá-los, não iriam muito além de provocar aglomerações, gravar cenas em filmes de terror e disparar crises de ansiedade em claustrofóbicos, não fazia muito sentido para mim.
